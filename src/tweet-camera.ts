@@ -74,6 +74,7 @@ class TweetCamera {
 			chromeFlags: [
 				'--headless',
 				'--disable-gpu',
+				'--no-sandbox',
 			],
 		});
 
