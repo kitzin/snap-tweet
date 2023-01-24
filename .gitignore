@@ -21,6 +21,3 @@ node_modules/
 
 # VSCode
 .vscode
-
-# Distribution
-dist
